@@ -6,3 +6,6 @@ Due to the lack of effective analytics the company faced a major loss in Latin A
 Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
 Hence, as the data analytics team we are going to help them to get the insights.
 
+Full Presentation: https://www.linkedin.com/feed/update/urn:li:activity:7167608078480211969/
+Live Dashboard: https://www.novypro.com/project/atliq-store-business-insights
+
